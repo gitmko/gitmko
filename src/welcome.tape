@@ -1,5 +1,4 @@
 Output welcome.gif
-Output welcome.mp4
 
 Set Theme "Builtin Pastel Dark"
 Set Padding 20
