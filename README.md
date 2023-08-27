@@ -1,16 +1,14 @@
-### Hi there 👋
+![Welcome](src/welcome.gif)
 
-<!--
-**gitmko/gitmko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi There :wave:
 
-Here are some ideas to get you started:
+The name's mko, I'm your average Linux desktop enjoyer who loves the command-line!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to make things __accessible__ while looking ✨ _neat_ ✨
+
+👷 I’m currently working on:
+- My DWM configuration, [dwm-mko](https://github.com/gitmko/dwm-mko)
+- A [Dotfiles Installer](https://github.com/gitmko/dotfiles-installer) with an emphasis on __ease of use__ ⚡
+
+If you're still reading, why not follow me on [mastodon](https://fosstodon.org/@mkayo)?
+
