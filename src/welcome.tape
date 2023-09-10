@@ -1,8 +1,8 @@
 Output welcome.gif
 
-Set Theme "Builtin Pastel Dark"
+Set Theme "Catppuccin Mocha"
 Set Padding 20
-Set FontFamily "Source Code Pro"
+Set FontFamily "JetBrainsMono Nerd Font"
 
 Set Shell "bash"
 Set FontSize 32
@@ -20,7 +20,13 @@ Backspace 7
 Type "dotfiles-installer"
 Right 1
 Sleep 3s
-Backspace 29
-Type "Have a good day! ☀️  "
+Left 1
+Backspace 18
+Type "nvim-mko"
+Right 1
+Sleep 3s
+Backspace 19
+Type "Have a good day! ☀️ "
+
 
 Sleep 5s
